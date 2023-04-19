@@ -1,0 +1,17 @@
+[
+	{
+		"titulo": "Bohemian Rhapsody",
+		"artista": "Queen",
+		"duracion": "5:55"
+	  },
+	  {
+		"titulo": "Stairway to Heaven",
+		"artista": "Led Zeppelin",
+		"duracion": "8:02"
+	  },
+	  {
+		"titulo": "Hotel California",
+		"artista": "The Eagles",
+		"duracion": "6:30"
+	  }
+  ]
